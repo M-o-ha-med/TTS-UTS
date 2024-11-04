@@ -1,0 +1,92 @@
+.boardcrossword #board {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  border-collapse: collapse;
+}
+
+.boardcrossword #checkScore{
+  height: 50%
+}
+
+
+
+.questioncrosswordMenurun #headerMenurun{
+  height: 1px;
+  margin-top: 40px;
+
+}
+
+
+.questioncrosswordMenurun h2{
+   height: 2px;
+ }
+
+ .questioncrosswordMendatar h2{
+   height: 2px;
+
+ }
+
+button{
+  width: 150px;
+  height: 200px;
+  font-size: 20px;
+    font-family: Itim;
+}
+
+ .questioncrosswordMendatar #headerMendatar{
+   height: 1px;
+
+ }
+
+#board td{
+  width:40px;
+  height:40px;
+  border: 1px solid black;
+  justify-content: center;
+  align-items:center;
+
+}
+
+#board input{
+  font-family: Itim;
+  display: block;
+  width: 50px;
+  height: 50px;
+  font-size: 20px;
+  text-align: center;
+  border: hidden;
+  outline: none;
+  text-transform: uppercase;
+  background-color: transparent;
+
+}
+
+.container{
+  align-content: center;
+
+}
+
+
+
+span{
+  font-family: Itim;
+  display: block;
+  position: relative;
+  bottom:0px;
+  font-size: 13px;
+}
+h1{
+  font-family: Itim;
+  text-align: center;
+}
+
+h3{
+  font-family: Itim;
+  font-size: 25px;
+}
+
+li{
+  font-family: Itim;
+  font-size: 20px;
+}
